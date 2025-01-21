@@ -85,7 +85,6 @@ def main():
     # 5. Compute area under the curve (AUC) using a standard trapezoidal rule
     #    from scikit-learn
     roc_auc = auc(sorted_fprs, sorted_tprs)
-    print(f"Computed AUC: {roc_auc:.3f}")
     return roc_auc
 
 if __name__ == "__main__":
