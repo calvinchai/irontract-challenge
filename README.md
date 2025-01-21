@@ -1,6 +1,5 @@
-# irontract-challenge
+# IronTract Challenge
 
-## More information on the IronTract Challenge:
 https://irontract.mgh.harvard.edu/
 
 ## Reference:
